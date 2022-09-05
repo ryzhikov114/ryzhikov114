@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ryzhikov Kirill from Russia
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently studying on my own
+- 👀 I’m interested in 🔥 Data Analytics and 💫 Boxing 
+- 🌱 I’m currently studying on my own, finish Yandex Practicum.
+- 🔮 Using Python, SQL, Power BI, Tableau.
 - 📫 How to reach me, just write me on telegram @ryzhikov114
 
 <!---
